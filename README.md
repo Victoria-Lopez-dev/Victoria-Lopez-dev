@@ -26,7 +26,7 @@ Me caracterizo por el pensamiento crítico, la proactividad y la capacidad de ap
 Plataforma para efectivizar reservas de canchas de padel.  
 - Rol: **Backend Developer - Soporte Frontend**  
 - Funcionalidades: armado de modulo y CRUD de usuarios,integracion de pasarela de pagos con Mercado Pago, integracion del chat del administrador uno a uno con el cliente,participacion en armado de documentacion tanto front como back.  
-🔗 [Repositorio](https://github.com/) 
+🔗 [Repositorio](https://github.com/SmashPF/Back-Smash-Center-PF) 
 
 ---
 
@@ -35,7 +35,14 @@ App web para gestión de turnos y registro de usuarios.
 - Frontend: React + Vite  
 - Backend: Node.js + PostgreSQL  
 - Autenticación y manejo de citas  
-🔗 [Repositorio](https://github.com/) 
+🔗 [Repositorio](https://github.com/Victoria-Lopez-dev/tiquetera-turnos-ayun) 
+
+---
+### Ecommerce – Armado Backend servicio *(Proyecto Full Stack)*
+API  de e-commerce generico que permite crud de productos,ordenes,y registro de usuarios.Con incorporacion de administrador y sus manejos.  
+- Backend: Nest.js + TypeORM + PostgreSQL +JWT
+- creacion y manejo ordenes.
+🔗 [Repositorio](https://github.com/Victoria-Lopez-dev/NestJS-Backend-e-commerce) 
 
 ---
 
